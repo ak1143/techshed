@@ -25,6 +25,7 @@ gsap.to("#third", {
         scrub:4
     }
 });
+
 gsap.to("#nav", {
     backgroundColor:"#fefcff",
     scrollTrigger: {
